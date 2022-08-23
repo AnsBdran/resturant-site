@@ -148,7 +148,7 @@ body.dark-theme {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: var(--bodyClr)j;
+  background-color: var(--bodyClr);
 }
 
 .nav {
@@ -449,11 +449,12 @@ body.dark-theme {
     .about__container,
     .app__container {
       grid-template-columns: repeat(2, 1fr);
+      align-items: center;
     }
 
     .about__data,
     .about__initial,
-    .app-data,
+    .app__data,
     .app-initial,
     .contact__container,
     .contact__initial {
