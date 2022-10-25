@@ -1,5 +1,6 @@
 # resturant-site
 responsive small restaurant site
--HTML
--CSS
--JavaScript
+
+- HTML
+- CSS
+- JavaScript
